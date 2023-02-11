@@ -1,2 +1,14 @@
 # Wanted_FE
-원티드 FrontEnd 과제 
+
+{
+"name":"kwak, soo chan",
+"position" : "undecided"
+"teck-stack": {
+"frontendt" : [
+"javascript",
+],
+"backend": ["nodejs"],
+"database":["mysql"]
+}
+
+}

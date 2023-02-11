@@ -28,3 +28,23 @@ const CreateTodo:ICreateTodo = (todo) =>{};
 const UpdateTodo:IUpdateTodo = (todo)=>{};
 
 const DeleteId:IDeleteTodo = (id) => {};
+
+
+///// function 작성 /// 
+function createItem(todo: ITodo){
+    /*
+        할일 추가 
+    */
+}
+function create(content:string){
+    /*내용물 추가 */
+};
+function GetAll(){
+    /*id를 기반으로 가져오기*/ 
+}
+function Update(todo:ITodo){
+    /*Update 하기*/
+}
+function DeleteItemAt(id : number){
+    /*할 일을 모두 삭제 */
+}
